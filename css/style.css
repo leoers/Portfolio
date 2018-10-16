@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+li{
+    width: calc(100% /4) !important;
+    list-style: none;
+}
+
+
+
+.triangulo{
+    width: 0;
+    height: 100;
+    border-bottom: 50px solid #fff;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+}
+
